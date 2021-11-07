@@ -1,0 +1,30 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+.header{
+    height: 90vh;
+    width: 100%;
+    color: white;
+    background: linear-gradient(to right, rgb(132, 228, 231),rgba(146, 58, 109, 0.349)), url(https://images.pexels.com/photos/221011/pexels-photo-221011.jpeg?cs=srgb&dl=pexels-pixabay-221011.jpg&fm=jpg);
+    background-size: cover;
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+    border-radius: 10rem!important;
+    padding: 1.20rem 1.24rem!important;
+}
+.message{
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.myicon{
+    font-size: 160px;
+    padding: 20px;
+}
+.important{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
